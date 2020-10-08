@@ -7,5 +7,3 @@ mvnw.cmd
 mvnw
 
 # bin
-target/*
-target
