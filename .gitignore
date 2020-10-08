@@ -1,0 +1,10 @@
+# Ignore IDE stuff
+.idea
+
+# Maven
+.mvn
+mvnw.cmd
+mvnw
+
+# bin
+target
